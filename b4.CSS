@@ -1,0 +1,24 @@
+.background{
+    background-color:rgba(183, 190, 190, 0.726);
+    position:static;
+    height: 250px;
+}
+
+.main {
+    display:inline-block;
+    padding:15px;
+    margin:10px;
+    width: 300px;
+    border: 1px solid #ccc ;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+}
+
+p{
+    opacity: 0.7;
+}
+
+h1{
+    color:rgb(98, 177, 223)
+}

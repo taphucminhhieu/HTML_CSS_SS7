@@ -1,0 +1,46 @@
+.background{
+    border-radius:10px ;
+    width: 600px;
+    height: 300px;
+    border:1px solid rgb(234 237 242);
+    position: relative;
+
+}
+head{
+    font-weight: bold;
+    padding: 20px;
+    position: relative;
+
+}
+.head span{
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: rgb(255 226 179);
+    color: rgb(179 107 0);
+    position: absolute;
+    top:20px;
+    right: 30px;
+    padding: 10px;
+    
+}
+.body span{
+    font-weight: bold ;
+}
+
+progress{
+    border:1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    width: 400px;
+    height: 10px;
+}
+
+progress::-webkit-progress-value{
+    background-color: rgb(30 255 41);
+}
+progress::-webkit-progress-bar{
+    background-color: white;
+}
+
+.footer{
+    opacity: 0.6;
+}

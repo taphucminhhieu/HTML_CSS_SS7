@@ -1,0 +1,21 @@
+.head{
+    line-height: 2cm;
+}
+
+.background{
+    text-align: center;
+    background-color:#1eff29 ;
+    color: black;
+    display: block;
+    height: 150px;
+    border: 1px solid black;
+}
+
+
+
+.body{
+    padding: 5px 0;
+    border-top: none ;
+    text-align: center;
+    background-color: aliceblue;
+}

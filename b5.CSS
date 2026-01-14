@@ -1,0 +1,57 @@
+.background{
+    padding-bottom: 30px;
+    background-color: white;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    border-radius: 20px;
+    width: 350px;
+
+}
+.head{
+    border-radius: 20px;
+    padding: 16px;
+    position: relative;
+    background-color: rgb(59 255 239);
+}
+
+.HOT{
+    border-radius: 15px;
+    color:white;
+    background-color: red;
+    font-size: 12px;
+    font-weight: bold;
+    top:10px;
+    right:10px;
+    padding: 5px 10px;
+    position: absolute;
+}
+
+.body{
+    padding: 20px;
+    padding-top: 40;
+    padding-bottom: 90;
+}
+
+span{
+    color:rgb(27 214 38);
+}
+hr{
+    opacity: 0.3;
+    width: 290px;
+
+}
+
+button{
+    background-color: rgb(0 217 255);
+    color:black;
+    border-radius: 30px;
+    border: none;
+    padding: 20px 80px;
+    right:40px;
+    font-weight: bold;
+    margin-top:20px ;
+    margin-left: 20px;
+}
+button:hover{
+    transform: scale(1.05);
+    background-color: #00c4e6;
+}
